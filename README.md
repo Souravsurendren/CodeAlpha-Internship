@@ -1,7 +1,15 @@
 # CodeAlpha-Internship
 #TASK - 1 :
         CREDIT SCORE PREDICTION MODEL
+
+
+
+        
 #TASK - 2:
         DISEASE PREDICTION USING MEDICAL DATA
+
+
+
+        
 #TASK - 3:
         HAND WRITTEN CHARACTER RECOGNITION MODEL
